@@ -1,0 +1,127 @@
+7
+Castletown
+
+The Devils Arse
+
+
+5
+Derby
+
+The Venue
+
+
+19
+Halifax
+
+The Piece Hall
+
+
+12
+Holmfirth
+
+Picturedrome
+
+
+13
+Leeds
+
+O2 Academy
+
+
+1
+Leicester
+Wiki:https://en.wikipedia.org/wiki/Leicester
+De Montford Hall
+Wiki:https://en.wikipedia.org/wiki/De_Montfort_Hall,Website:https://www.demontforthall.co.uk
+
+4
+Leicester
+
+The Musician
+
+
+6
+Lincoln
+
+The Engine Shed
+
+
+21
+London
+
+The Roundhouse
+
+
+2
+Manchester
+
+Academy
+
+
+8
+Manchester
+
+O2 Apollo
+
+
+10
+Manchester
+
+O2 Ritz
+
+
+11
+Manchester
+
+AO Arena
+
+
+17
+Manchester
+
+Emirates Old Trafford
+
+
+20
+Mexborough
+
+The Imperial Music Venue
+
+
+16
+Newcastle
+
+Boiler Shop
+
+
+3
+Nottingham
+
+Rock City
+
+
+9
+Sheffield
+
+O2 Academy
+
+
+14
+Sheffield
+
+Octagon Centre
+
+
+15
+Sheffield
+
+The Greystones
+
+
+18
+Sheffield
+
+The Leadmill
+
+
+end

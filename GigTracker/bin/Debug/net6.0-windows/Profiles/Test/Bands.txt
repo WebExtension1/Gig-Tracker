@@ -1,0 +1,161 @@
+18
+Argent
+
+
+
+21
+Billy Bragg
+
+
+
+23
+Billy Bragg And Wilco
+
+
+
+3
+Bob Dylan
+
+Wiki:https://en.wikipedia.org/wiki/Counting_Crows,Website:https://www.countingcrows.com,Setlist:https://www.setlist.fm/setlists/counting-crows-7bd6b6f0.html
+
+9
+Bright Eyes
+
+
+
+1
+Counting Crows
+1,2,3,4,5,6,7
+Wiki:https://en.wikipedia.org/wiki/Counting_Crows,Website:https://www.countingcrows.com,Setlist:https://www.setlist.fm/setlists/counting-crows-7bd6b6f0.html
+
+7
+Dan Baird and Homemade Sin
+
+
+
+28
+Depeche Mode
+
+
+
+13
+Eels
+
+
+
+29
+Foo Fighters
+
+
+
+27
+Ginger
+
+
+
+4
+Grateful Dead
+
+Wiki:https://en.wikipedia.org/wiki/Grateful_Dead,Website:https://www.dead.net,Setlist:https://www.setlist.fm/setlists/grateful-dead-bd6ad4a.html
+
+19
+Iron Maiden
+
+
+
+5
+Joni Mitchell
+
+Wiki:https://en.wikipedia.org/wiki/Joni_Mitchell
+
+22
+Leon Rosselson
+
+
+
+32
+Low
+
+
+
+6
+Lucy Rose
+
+Wiki:https://en.wikipedia.org/wiki/Lucy_Rose,Website:https://www.lucyrosemusic.com,Setlist:https://www.setlist.fm/setlists/lucy-rose-33d390a5.html
+
+17
+Nancy Sinatra
+
+
+
+12
+New Model Army
+
+
+
+14
+NRBQ
+
+
+
+26
+Ocean Colour Scene
+
+
+
+10
+Passenger
+
+
+
+30
+Pixies
+
+
+
+20
+Queens Of The Stone Age
+
+
+
+15
+Small Faces
+
+
+
+31
+Teenage Fanclub
+
+
+
+2
+Tender Mercies
+
+Setlist:https://www.setlist.fm/setlists/tender-mercies-5bc58b68.html
+
+24
+The Almanac Singers
+
+
+
+16
+The Kinks
+
+
+
+8
+The Wedding Present
+
+
+
+11
+Warner Hodges
+
+
+
+25
+Woody Guthrie
+
+
+
+end

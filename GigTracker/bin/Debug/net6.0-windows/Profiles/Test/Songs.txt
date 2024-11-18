@@ -1,0 +1,1237 @@
+150
+125 Mph
+
+3:58
+12
+
+78
+1984
+
+3:18
+12
+
+101
+3 Speed
+
+2:45
+13
+
+17
+A Long December
+
+4:55
+1
+
+37
+A Million Miles
+
+3:33
+8
+
+18
+A Murder of One
+
+5:44
+1
+
+197
+A New England
+
+2:15
+21
+
+138
+Alexander The Great (356-323 B.C.)
+
+8:37
+19
+
+108
+All The Beautiful Things
+
+2:22
+13
+
+188
+All You Fascists Are Bound To Lose
+
+2:43
+23
+
+95
+Amateur Hour
+
+2:32
+13
+
+44
+An Attempt To Tip The Scales
+
+8:29
+9
+
+70
+Angel of 14th Street
+
+5:02
+1
+
+83
+Angry Planet
+
+5:25
+12
+
+56
+Another Travelin' Song
+
+4:16
+9
+
+99
+Anything For Boo
+
+3:24
+13
+
+114
+Are We Alright Again
+
+3:44
+13
+
+115
+Baby Let's Make It Real
+
+3:56
+13
+
+85
+Before I Get Old
+
+3:54
+12
+
+77
+Believe It
+
+4:01
+12
+
+14
+Big Yellow Taxi
+
+3:48
+5
+
+73
+Bittersweet
+
+3:07
+12
+
+25
+Blonde
+
+5:08
+8
+
+34
+Blue Eyes
+
+2:54
+8
+
+71
+Bobby and the Rat-Kings
+
+5:29
+1
+
+84
+Born Feral
+
+6:25
+12
+
+47
+Bowl of Oranges
+
+4:49
+9
+
+42
+Brassneck
+
+4:53
+8
+
+63
+Butterfly In Reverse
+
+2:48
+1
+
+32
+California
+
+3:10
+8
+
+136
+Can I Play With Madness
+
+3:31
+19
+
+200
+Canada
+
+3:45
+32
+
+160
+Carnavoyeur
+
+3:56
+20
+
+29
+Carolyn
+
+3:39
+8
+
+106
+Climbing To The Moon
+
+3:39
+13
+
+6
+Colorblind
+
+3:23
+1
+
+206
+Come Play With Me
+
+4:33
+8
+
+58
+Comet Song
+
+5:36
+9
+
+28
+Corduroy
+
+3:29
+8
+
+127
+Courage
+
+3:18
+12
+
+4
+Cover Up the Sun
+
+3:46
+1
+
+41
+Crawl
+
+2:44
+8
+
+22
+Dalliance
+
+4:25
+8
+
+43
+Dance and Sing
+
+4:31
+9
+
+23
+Dare
+
+3:45
+8
+
+132
+Days Of Future Past
+
+4:04
+19
+
+135
+Death Of The Celts
+
+10:20
+19
+
+35
+Deer Caught in the Headlights
+
+5:25
+8
+
+80
+Devil's Bargain
+
+5:30
+12
+
+109
+Dog Faced Boy
+
+3:17
+13
+
+201
+Don't Touch That Dial
+
+6:19
+8
+
+111
+Drummer Man
+
+3:21
+17
+
+118
+Earth To Dora
+
+3:43
+13
+
+15
+Earthquake Driver
+
+3:32
+1
+
+57
+Easy/Lucky/Free
+
+5:24
+9
+
+69
+Elevator Boots
+
+3:49
+1
+
+16
+Elvis Went to Hollywood
+
+3:56
+1
+
+157
+Emotion Sickness
+
+4:31
+20
+
+121
+End Of Days
+
+4:12
+12
+
+33
+Everyone Thinks He Looks Daft
+
+4:10
+8
+
+51
+Falling Out of Love At This Volume
+
+2:17
+9
+
+88
+Fate
+
+3:18
+12
+
+139
+Fear Of The Dark
+
+7:18
+19
+
+59
+First Day of My Life
+
+3:09
+9
+
+154
+First It Giveth
+
+3:18
+20
+
+12
+Friend of the Devil
+
+4:36
+4
+
+116
+Friendly Ghost
+
+3:22
+13
+
+149
+Frightened
+
+3:43
+12
+
+122
+From Here
+
+7:57
+12
+
+128
+Get Me Out
+
+3:19
+12
+
+67
+Ghost Train
+
+4:02
+1
+
+170
+Go With The Flow
+
+3:07
+20
+
+120
+God Gave Rock And Roll To You
+
+6:43
+18
+
+65
+God Of Ocean Tides
+
+3:12
+1
+
+98
+Good Night On Earth
+
+3:18
+13
+
+205
+Granadaland
+
+4:50
+8
+
+151
+Green And Grey
+
+4:57
+12
+
+185
+Greetings To The New Brunette
+
+3:32
+21
+
+144
+Guessing
+
+3:31
+12
+
+183
+Handyman Blues
+
+3:03
+21
+
+72
+Hanginaround
+
+4:07
+1
+
+64
+Hard Candy
+
+4:22
+1
+
+123
+Headlights
+
+5:36
+12
+
+30
+Heather
+
+3:32
+8
+
+137
+Heaven Can Wait
+
+7:24
+19
+
+141
+Hell On Earth
+
+11:19
+19
+
+76
+Here Comes The War
+
+4:29
+12
+
+21
+Holiday in Spain
+
+3:48
+1
+
+204
+I Am Not Going To Fall In Love With You
+
+6:38
+8
+
+60
+I Believe in Symmetry
+
+5:25
+9
+
+113
+I Like Birds
+
+2:32
+13
+
+93
+I Love The World
+
+5:08
+12
+
+105
+I Need Some Sleep
+
+2:28
+13
+
+165
+I Sat By The Ocean
+
+3:56
+20
+
+162
+I Think I Lost My Headache
+
+8:40
+20
+
+186
+I Will Be Your Shield
+
+3:32
+21
+
+3
+If I Could Give All My Love
+
+3:53
+1
+
+158
+If I Had A Tail
+
+4:56
+20
+
+146
+Inheritance
+
+3:24
+12
+
+140
+Iron Maiden
+
+3:34
+19
+
+38
+It's For You
+
+3:16
+8
+
+100
+Jeannie's Diary
+
+3:33
+13
+
+45
+Jejune Stars
+
+4:10
+9
+
+40
+Kennedy
+
+4:22
+8
+
+174
+King James Version
+
+3:21
+21
+
+177
+King Tide And The Sunny Day Flood
+
+2:58
+21
+
+117
+Last Stop: This Town
+
+3:27
+13
+
+180
+Levi Stubbs' Tears
+
+3:32
+21
+
+167
+Little Sister
+
+2:54
+20
+
+147
+Living In The Rose
+
+3:51
+12
+
+168
+Long Slow Goodbye
+
+6:50
+20
+
+27
+Lovenest
+
+5:11
+8
+
+193
+Lovers Town Revisited
+
+1:20
+21
+
+74
+Lust For Power
+
+4:11
+12
+
+166
+Make It Wit Chu
+
+4:50
+20
+
+81
+Maps
+
+3:54
+12
+
+46
+Mariana Trench
+
+3:42
+9
+
+202
+Mars Sparkles Down On Me
+
+4:14
+8
+
+96
+Me And The Boys
+
+3:31
+14
+
+7
+Mercy
+
+3:31
+2
+
+50
+Method Acting
+
+3:42
+9
+
+11
+Miami
+
+4:59
+1
+
+179
+Mid-Century Modern
+
+5:28
+21
+
+5
+Mr Jones
+
+4:32
+1
+
+39
+My Favourite Dress
+
+4:15
+8
+
+156
+My God Is The Sun
+
+3:55
+20
+
+164
+Negative Space
+
+3:53
+20
+
+75
+Never Arriving
+
+5:00
+12
+
+148
+No Greater Love
+
+3:33
+12
+
+153
+No One Knows
+
+4:39
+20
+
+55
+No One Would Riot for Less
+
+5:26
+9
+
+90
+No Rest
+
+3:53
+12
+
+126
+No Sense
+
+3:27
+12
+
+203
+Nobody's Twisting Your Arm
+
+4:01
+8
+
+112
+Novocaine For The Soul
+
+3:09
+13
+
+31
+Octopussy
+
+6:22
+8
+
+49
+Old Soul Song (for the New World Order)
+
+4:29
+9
+
+8
+Omaha
+
+3:39
+1
+
+48
+One and Done
+
+4:53
+9
+
+61
+One For You, One For Me
+
+6:35
+9
+
+19
+Palisades Park
+
+8:21
+1
+
+169
+Paper Machete
+
+3:23
+20
+
+103
+Peach Blossom
+
+4:01
+13
+
+52
+Persona Non Grata
+
+3:32
+9
+
+152
+Poison Street
+
+3:05
+12
+
+9
+Possibility Days
+
+4:12
+1
+
+20
+Rain King
+
+4:16
+1
+
+181
+Rich Men Earning North Of A Million
+
+4:19
+21
+
+192
+Richard
+
+2:52
+21
+
+26
+Rotterdam
+
+3:16
+8
+
+62
+Round Here
+
+5:31
+1
+
+2
+Scarecrow
+
+4:47
+1
+
+178
+Sexuality
+
+3:49
+21
+
+176
+She's Got A New Spell
+
+3:26
+21
+
+53
+Shell Games
+
+3:56
+9
+
+163
+Sick, Sick, Sick
+
+3:35
+20
+
+155
+Smooth Sailing
+
+4:51
+20
+
+129
+Somewhere Caught In Time
+
+7:27
+19
+
+171
+Song For The Dead
+
+5:52
+20
+
+66
+Start Again
+
+3:33
+31
+
+145
+States Radio
+
+4:50
+12
+
+94
+Steam Engine
+
+3:15
+13
+
+130
+Stranger In A Strange Land
+
+5:47
+19
+
+91
+Stupid Questions
+
+3:30
+12
+
+24
+Suck
+
+3:59
+8
+
+1
+Sullivan Street
+
+4:28
+1
+
+187
+Tank Park Salute
+
+3:30
+21
+
+89
+The Ballad Of Bodmin Pill
+
+4:48
+12
+
+184
+The Boy Done Good
+
+3:24
+21
+
+191
+The Busy Girl Buys Beauty
+
+1:59
+21
+
+79
+The Charge
+
+3:25
+12
+
+107
+The Deconstruction
+
+4:11
+13
+
+102
+The Gentle Sould
+
+4:01
+13
+
+87
+The Hunt
+
+4:12
+12
+
+194
+The Man In The Iron Mask
+
+2:14
+21
+
+195
+The Milkman Of Human Kindness
+
+2:49
+21
+
+134
+The Prisoner
+
+6:03
+19
+
+198
+The Queen Of Outer Space
+
+2:54
+8
+
+68
+The Tall Grass
+
+4:35
+1
+
+133
+The Time Machine
+
+7:09
+19
+
+142
+The Trooper
+
+4:13
+19
+
+161
+The Way You Used To Do
+
+4:34
+20
+
+172
+The Wolf Covers Its Tracks
+
+4:34
+21
+
+173
+The World Turned Upside Down
+
+2:36
+22
+
+131
+The Writing On The Wall
+
+6:14
+19
+
+189
+There Is Power In A Union
+
+2:49
+21
+
+159
+Time And Place
+
+4:26
+20
+
+54
+To Death's Heart (In Three Parts)
+
+5:26
+9
+
+196
+To Have And To Have Not
+
+2:33
+21
+
+86
+Vagabonds
+
+4:21
+12
+
+125
+Vanity
+
+5:31
+12
+
+92
+Vengeance
+
+4:06
+12
+
+190
+Waiting For The Great Leap Forwards
+
+4:36
+21
+
+143
+Wasted Years
+
+5:10
+19
+
+175
+Way Over Yonder In The Minor Key
+
+4:07
+23
+
+124
+Western Dream
+
+3:55
+12
+
+97
+What'Cha Gonna Do About It
+
+1:57
+15
+
+13
+When I Dream of Michelangelo
+
+3:10
+1
+
+82
+Where I Am
+
+3:53
+12
+
+182
+Which Side Are You On?
+
+2:35
+24
+
+104
+Who You Say You Are
+
+2:55
+13
+
+119
+Wonderful, Glorious
+
+3:44
+13
+
+36
+X Marks The Spot
+
+3:51
+8
+
+10
+You Ain't Goin' Nowhere
+
+4:19
+3
+
+110
+You Really Got Me
+
+2:12
+16
+
+199
+You Should Always Keep In Touch With Your Friends
+
+3:02
+8
+
+end
